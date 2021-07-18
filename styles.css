@@ -36,7 +36,7 @@ button:hover {
 header {
 	height: 100vh;
 	/* height: 100vh; */
-	background: no-repeat center/cover url('imagens/header-bg2.png')
+	background: no-repeat center/cover url('imagens/header-image.jpg')
 }
 
 header span {
