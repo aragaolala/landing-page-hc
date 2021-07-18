@@ -311,7 +311,7 @@ footer p {
 
 /********************** SITE RESPONSIVO *****/
 
-@media (max-width: 952px) {
+@media screen (max-width: 768px) {
 	.header-content h1 {
 		margin-bottom: 40px;
 		font-size: 4.5rem;
