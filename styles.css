@@ -311,7 +311,7 @@ footer p {
 
 /********************** SITE RESPONSIVO *****/
 
-@media (max-width: 700px) {
+@media (max-width: 952px) {
 	.header-content h1 {
 		margin-bottom: 40px;
 		font-size: 4.5rem;
@@ -321,7 +321,7 @@ footer p {
 	.header-content p {
 		text-align: center;
 		font-family: 'Hind Guntur', sans-serif;
-		font-size: 1.2rem;
+		font-size: 1.3rem;
 		font-weight: ;
 	}
 	.nome-lead,
@@ -347,4 +347,13 @@ footer p {
 		flex-direction: column;
 		background: no-repeat center/cover;
 	}
+	label.logo {
+        color: cornsilk;
+        font-size: 20px;
+        line-height: 80px;
+        padding: 0 15px;
+        font-weight: bold;
+        margin-top: 100px;
+        font-family: 'Comfortaa', cursive;
+    }
 }
